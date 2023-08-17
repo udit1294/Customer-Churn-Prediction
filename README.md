@@ -167,17 +167,9 @@ We will explore the patterns for the above correlations below before we delve in
 
 Logistic Regression Test Accuracy: 0.8038379530916845
 
-Decission Tree Test Accuracy: 0.7149964463397299
-
 Random Forest Test Accuracy: 0.7853589196872779
 
-Naive_Bayes Test Accuracy: 0.7420042643923241
-
-KNN Test Accuracy: 0.7654584221748401
-
 SVM 👉👉👉👉 0.8045486851457001
-
-ANN 👉👉👉👉 0.78
 
 ## Conclusion
 
