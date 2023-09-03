@@ -38,9 +38,6 @@ As a result, by addressing churn, these businesses may not only preserve their m
 
 5.[Sklearn](https://github.com/scikit-learn/scikit-learn)
 
-6.[Tensorflow](https://github.com/tensorflow/tensorflow)
-
-7.[Keras](https://github.com/keras-team/keras)
 
 ## Data 
 
